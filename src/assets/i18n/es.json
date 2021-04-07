@@ -1,0 +1,8 @@
+{
+    "demo": {
+        "title": "titulo esp",
+        "text": "texto esp",
+        "greeting": "hola {{name}}!"
+    }
+}
+
