@@ -1,4 +1,5 @@
 Angular con 2 idiomas. 
+npm install --save-dev @angular-devkit/build-angular
 
 # TranslationDemo
 
