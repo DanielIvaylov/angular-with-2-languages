@@ -1,3 +1,8 @@
+Tutorial:
+https://www.codeandweb.com/babeledit/tutorials/how-to-translate-your-angular-app-with-ngx-translate
+
+
+
 
 # TranslationDemo
 
